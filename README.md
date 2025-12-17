@@ -1,2 +1,2 @@
-# whep
-WHEP in Rust
+# WHEP
+WebRTC-HTTP Egress Protocol (WHEP) in Rust
