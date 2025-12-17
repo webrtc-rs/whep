@@ -1,0 +1,14 @@
+[package]
+name = "whep"
+version = "0.0.0"
+authors = ["Rain Liu <y@liu.mx>"]
+edition = "2024"
+description = "WHEP in Rust"
+license = "MIT/Apache-2.0"
+documentation = "https://docs.rs/whep"
+homepage = "https://webrtc.rs"
+repository = "https://github.com/webrtc-rs/whep"
+keywords = ["sansio", "networking", "protocols"]
+categories = ["network-programming"]
+
+[dependencies]
